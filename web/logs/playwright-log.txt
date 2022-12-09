@@ -1,0 +1,143 @@
+{"level":30,"time":"2022-12-08T21:56:26.846Z","pid":146565,"hostname":"lucas-Dell","msg":"Listening on 43179"}
+{"level":30,"time":"2022-12-08T21:56:26.893Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:26.893Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:26.896Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:26.896Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:26.900Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:27.151Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:27.155Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:27.155Z","pid":146565,"hostname":"lucas-Dell","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-12-08T21:56:27.164Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:27.274Z","pid":146565,"hostname":"lucas-Dell","msg":"Video path: undefined"}
+{"level":30,"time":"2022-12-08T21:56:27.274Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:27.781Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:27.796Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:27.797Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Seu e-mail\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:27.913Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:27.919Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:27.920Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Sua Senha\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:27.962Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:27.970Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-08T21:56:27.970Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar no sistema in page."}
+{"level":30,"time":"2022-12-08T21:56:28.098Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method click"}
+{"level":30,"time":"2022-12-08T21:56:28.109Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:28.110Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-12-08T21:56:28.369Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:28.372Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getText"}
+{"level":30,"time":"2022-12-08T21:56:28.373Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=aside strong in page."}
+{"level":30,"time":"2022-12-08T21:56:28.392Z","pid":146565,"hostname":"lucas-Dell","msg":"Retrieved text for element css=aside strong containing Admin"}
+{"level":30,"time":"2022-12-08T21:56:28.393Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getText"}
+{"level":30,"time":"2022-12-08T21:56:28.395Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.397Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.399Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.409Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.411Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:28.411Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:28.411Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:28.414Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.416Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.417Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.417Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.418Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.419Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.422Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.424Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.425Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:28.425Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:28.425Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:28.427Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:28.431Z","pid":146565,"hostname":"lucas-Dell","msg":"Removed page=ffe91a07-dc88-457f-b14f-fcbf1c8a9a4a from context=8803a21f-066f-46d2-969d-a267de245b7d page stack"}
+{"level":30,"time":"2022-12-08T21:56:28.450Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:28.453Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.453Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:28.457Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.896Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:28.899Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:28.899Z","pid":146565,"hostname":"lucas-Dell","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-12-08T21:56:28.907Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:29.025Z","pid":146565,"hostname":"lucas-Dell","msg":"Video path: undefined"}
+{"level":30,"time":"2022-12-08T21:56:29.025Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:29.432Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:29.447Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:29.448Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Seu e-mail\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:29.583Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:29.592Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:29.592Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Sua Senha\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:29.652Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:29.665Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-08T21:56:29.665Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar no sistema in page."}
+{"level":30,"time":"2022-12-08T21:56:29.796Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method click"}
+{"level":30,"time":"2022-12-08T21:56:29.800Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-08T21:56:29.800Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar no sistema in page."}
+{"level":30,"time":"2022-12-08T21:56:29.872Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method click"}
+{"level":30,"time":"2022-12-08T21:56:29.876Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:29.876Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body div >> text=Suas credenciais são inválidas, por favor tente novamente! in page."}
+{"level":30,"time":"2022-12-08T21:56:29.880Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:29.882Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.883Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.884Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.886Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.887Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:29.887Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:29.887Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:29.890Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.892Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.893Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:29.893Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:29.895Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:29.895Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:29.898Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.899Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.901Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:29.901Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:29.901Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:29.902Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:29.905Z","pid":146565,"hostname":"lucas-Dell","msg":"Removed page=a8fb8b44-e411-46fe-bfb8-df77ed9266f5 from context=74544b11-3089-4b12-b43e-0c25e8d55e55 page stack"}
+{"level":30,"time":"2022-12-08T21:56:29.921Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:29.926Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.926Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:29.929Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.220Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.224Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:30.224Z","pid":146565,"hostname":"lucas-Dell","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-12-08T21:56:30.231Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:30.352Z","pid":146565,"hostname":"lucas-Dell","msg":"Video path: undefined"}
+{"level":30,"time":"2022-12-08T21:56:30.352Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:30.754Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method newPage"}
+{"level":30,"time":"2022-12-08T21:56:30.761Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:30.762Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Seu e-mail\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:30.822Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:30.825Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:30.825Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Sua Senha\"] in page."}
+{"level":30,"time":"2022-12-08T21:56:30.836Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-08T21:56:30.838Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-08T21:56:30.838Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar no sistema in page."}
+{"level":30,"time":"2022-12-08T21:56:30.899Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method click"}
+{"level":30,"time":"2022-12-08T21:56:30.903Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:30.903Z","pid":146565,"hostname":"lucas-Dell","msg":"Strict mode is enabled, find Locator with css=.Toastify__toast-body div >> text=Suas credenciais são inválidas, por favor tente novamente! in page."}
+{"level":30,"time":"2022-12-08T21:56:30.962Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-12-08T21:56:30.964Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.966Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.967Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.969Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.970Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:30.970Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:30.970Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:30.972Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.975Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.976Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.977Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.978Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.978Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-12-08T21:56:30.981Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.983Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:30.984Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active context"}
+{"level":30,"time":"2022-12-08T21:56:30.984Z","pid":146565,"hostname":"lucas-Dell","msg":"Changing current active page"}
+{"level":30,"time":"2022-12-08T21:56:30.984Z","pid":146565,"hostname":"lucas-Dell","msg":"Changed active page"}
+{"level":30,"time":"2022-12-08T21:56:30.986Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:30.989Z","pid":146565,"hostname":"lucas-Dell","msg":"Removed page=7371e15e-1c44-4387-9cf6-14473161f95d from context=220ca88f-ba6d-4f8c-a8a2-80128b235a02 page stack"}
+{"level":30,"time":"2022-12-08T21:56:31.010Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-12-08T21:56:31.014Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:31.014Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-08T21:56:31.033Z","pid":146565,"hostname":"lucas-Dell","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-12-08T21:56:31.153Z","pid":146565,"hostname":"lucas-Dell","msg":"End of node method closeAllBrowsers"}
